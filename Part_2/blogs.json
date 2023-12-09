@@ -1,0 +1,44 @@
+[
+  {
+    "reference": "00001",
+    "title": "Title Test",
+    "description": "Description Test",
+    "main_image": "images/main_image_1_test.jpg",
+    "additional_images": [
+      "images/additional_image_1_test.jpg",
+      "images/additional_image_2_test.jpg",
+      "images/additional_image_3_test.jpg"
+    ],
+    "date_time": 1671017885
+  },
+  {
+    "reference": "00002",
+    "title": "Title Test 2",
+    "description": "Description Test: 2!",
+    "main_image": "images/main_image_2_test.jpg",
+    "date_time": 1671017981
+  },
+  {
+    "reference": "00003",
+    "title": "Sample Blog Post",
+    "description": "This is a sample blog post",
+    "main_image": "images/main_image_2.jpg",
+    "date_time": 1641600000
+  },
+  {
+    "title": "Sample Blog Post 1",
+    "description": "This is a sample blog post 1",
+    "main_image": "images/main_image_00004.jpg",
+    "additional_images": [],
+    "date_time": 1641600000,
+    "reference": "00004"
+  },
+  {
+    "title": "Sample Blog Post 1",
+    "description": "This is a sample blog post 1",
+    "main_image": "images/main_image_00005.jpg",
+    "additional_images": ["images/additional_image_00005_1.jpg"],
+    "date_time": 1641600000,
+    "reference": "00005"
+  }
+]
